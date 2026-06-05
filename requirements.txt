@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+groq
+pdfplumber
+PyMuPDF
