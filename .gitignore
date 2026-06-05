@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large models
+models/career_model.pkl
+
+# Large datasets
+DataScientist.csv
+resume_data.csv
+
+# User uploaded test/temp files
+test_resume.pdf
+.DS_Store
